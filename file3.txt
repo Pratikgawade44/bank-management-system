@@ -1,2 +1,2 @@
 I have created file 3.
-I added new feature in file3.
+Perfomed addition and subtraction in file3. 
